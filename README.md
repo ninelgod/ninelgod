@@ -49,8 +49,6 @@
 
   <h2 align="center">Mis redes</h2>
   <p align="center">
-    <a href="ninelgod@coretoolslab.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="ninelgod"/></a>
-    <a href="https://github.com/ninelgod" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="ninelgod"/></a>
     <a href="https://steamcommunity.com/profiles/76561198374126307/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="ninelgod"/></a>
   </p>
 
