@@ -13,14 +13,14 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **Pronto crearé un Gmail Dev**
+📫 Contacto: ninelgod@coretoolslab.com
   </p>
 <br>
 
 <h2 align="center">Tecnologías conocidas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,css,html,js,nodejs,mysql,git,vscode,bash,linux,ps,ai&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,nodejs,mysql,git,vscode,ps,ai&perline=7" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@
 
   <h2 align="center">Mis redes</h2>
   <p align="center">
-    <a href="https://www.instagram.com/ealflp/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="ninelgod"/></a>
-    <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="ninelgod"/></a>
+    <a href="ninelgod@coretoolslab.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="ninelgod"/></a>
     <a href="https://github.com/ninelgod" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="ninelgod"/></a>
+    <a href="https://steamcommunity.com/profiles/76561198374126307/" target="_blank"><img src="https://skillicons.dev/icons?i=steam" alt="ninelgod"/></a>
   </p>
-  <!--<a href="https://steamcommunity.com/profiles/76561198374126307/" target="_blank"><img src="https://skillicons.dev/icons?i=steam" alt="ninelgod"/></a>-->
+
